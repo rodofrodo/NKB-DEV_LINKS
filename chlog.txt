@@ -1,1 +1,1 @@
-Added gradients-Added animations-Updated project-Made beautiful look of the app-Optimalized the app
+Done lifting in Library-Done lifting in product area-Optimized the animation of gradient-Removed downloading bar
